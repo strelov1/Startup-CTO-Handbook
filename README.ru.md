@@ -3,7 +3,7 @@
 </p>
 
 # Книга
-Русский перевод книги в формате markdown — [ruStartupCTOHandbook.md](ruStartupCTOHandbook.md).
+Русский перевод книги в формате markdown — [StartupCTOHandbook.ru.md](StartupCTOHandbook.ru.md).
 Оригинал на английском — [StartupCTOHandbook.md](StartupCTOHandbook.md).
 
 > **О переводе.** Это неофициальный русский перевод книги Зака Голдберга (Zach Goldberg) «The Startup CTO's Handbook». Перевод выполнен и распространяется на условиях лицензии оригинала [CC BY-NC-SA 4.0](LICENSE) (с указанием авторства, некоммерчески, на тех же условиях). Оригинальный репозиторий: <https://github.com/ZachGoldberg/Startup-CTO-Handbook>.
