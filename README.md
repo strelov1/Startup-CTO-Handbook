@@ -13,7 +13,7 @@ The original manuscript (now outdated) can be found as a [Google doc](https://do
 
 # Translations
 Community translations (unofficial, shared under the same CC BY-NC-SA 4.0 license):
-- 🇷🇺 Russian — [strelov1/Startup-CTO-Handbook](https://github.com/strelov1/Startup-CTO-Handbook/blob/main/ruStartupCTOHandbook.md)
+- 🇷🇺 Russian — [strelov1/Startup-CTO-Handbook](https://github.com/strelov1/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.ru.md)
 
 # Welcome
 Hi, thanks for checking out the Startup CTO's Handbook!  This repository has the latest version of the content of the book. You're welcome and encouraged to contribute issues or pull requests for additions / changes / suggestions / criticisms to be included in future editions. Please feel free to add your name to ACKNOWLEDGEMENTS if you do so.
